@@ -40,16 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataStructures\ListNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\Easy\LongestCommonPrefixSolution.cs" />
     <Compile Include="Solutions\Easy\PalindromeNumberSolution.cs" />
     <Compile Include="Solutions\Easy\ReverseIntegerSolution.cs" />
     <Compile Include="Solutions\Easy\TwoSumBruteSolution.cs" />
     <Compile Include="Solutions\Easy\TwoSumDictionarySolution.cs" />
+    <Compile Include="Solutions\Medium\AddTwoNumbersSolution.cs" />
     <Compile Include="Tasks\Easy\ILongestCommonPrefix.cs" />
     <Compile Include="Tasks\Easy\IPalindromeNumber.cs" />
     <Compile Include="Tasks\Easy\IReverseInteger.cs" />
     <Compile Include="Tasks\Easy\ITwoSum.cs" />
+    <Compile Include="Tasks\Medium\IAddTwoNumbers.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
