@@ -47,12 +47,14 @@
     <Compile Include="Solutions\Easy\ReverseIntegerSolution.cs" />
     <Compile Include="Solutions\Easy\TwoSumBruteSolution.cs" />
     <Compile Include="Solutions\Easy\TwoSumDictionarySolution.cs" />
+    <Compile Include="Solutions\Easy\ValidParentheses.cs" />
     <Compile Include="Solutions\Hard\MedianOfTwoSortedArraysSolution.cs" />
     <Compile Include="Solutions\Medium\AddTwoNumbersSolution.cs" />
     <Compile Include="Tasks\Easy\ILongestCommonPrefix.cs" />
     <Compile Include="Tasks\Easy\IPalindromeNumber.cs" />
     <Compile Include="Tasks\Easy\IReverseInteger.cs" />
     <Compile Include="Tasks\Easy\ITwoSum.cs" />
+    <Compile Include="Tasks\Easy\IValidParentheses.cs" />
     <Compile Include="Tasks\Hard\IMedianOfTwoSortedArrays.cs" />
     <Compile Include="Tasks\Medium\IAddTwoNumbers.cs" />
   </ItemGroup>

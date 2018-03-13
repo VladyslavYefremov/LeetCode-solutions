@@ -4,6 +4,8 @@ namespace LeetCode.Solutions.Hard
 {
 	/// <summary>
 	/// Find median of two sorted arrays by using extra space
+	/// 
+	/// TODO: current solution complexity is O(n+m+2) but have to be O(log(n+m))
 	/// </summary>
 	public class MedianOfTwoSortedArraysSolution : IMedianOfTwoSortedArrays
 	{
