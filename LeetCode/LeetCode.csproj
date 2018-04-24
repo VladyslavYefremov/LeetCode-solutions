@@ -51,6 +51,7 @@
     <Compile Include="Solutions\Easy\ValidParentheses.cs" />
     <Compile Include="Solutions\Hard\MedianOfTwoSortedArraysSolution.cs" />
     <Compile Include="Solutions\Medium\AddTwoNumbersSolution.cs" />
+    <Compile Include="Solutions\Medium\ContainerWithMostWater.cs" />
     <Compile Include="Solutions\Medium\LongestPalindromicSubstring\LongestPalindromicSubstringBruteForceSolution.cs" />
     <Compile Include="Solutions\Medium\LongestPalindromicSubstring\LongestPalindromicSubstringSolution.cs" />
     <Compile Include="Solutions\Medium\LongestSubstringWithoutRepeatingCharacters\LSWRC_BruteForceOptimizedSolution.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="Tasks\Easy\IValidParentheses.cs" />
     <Compile Include="Tasks\Hard\IMedianOfTwoSortedArrays.cs" />
     <Compile Include="Tasks\Medium\IAddTwoNumbers.cs" />
+    <Compile Include="Tasks\Medium\IContainerWithMostWater.cs" />
     <Compile Include="Tasks\Medium\ILongestPalindromicSubstring.cs" />
     <Compile Include="Tasks\Medium\ILongestSubstringWithoutRepeatingCharacters.cs" />
   </ItemGroup>
